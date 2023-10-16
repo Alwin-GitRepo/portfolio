@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.739a0a7b.chunk.css",
+    "main.js": "/static/js/main.926259d3.chunk.js",
+    "main.js.map": "/static/js/main.926259d3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.63137a6a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.63137a6a.js.map",
+    "static/css/2.95d02a1e.chunk.css": "/static/css/2.95d02a1e.chunk.css",
+    "static/js/2.ec88bf98.chunk.js": "/static/js/2.ec88bf98.chunk.js",
+    "static/js/2.ec88bf98.chunk.js.map": "/static/js/2.ec88bf98.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.95d02a1e.chunk.css.map": "/static/css/2.95d02a1e.chunk.css.map",
+    "static/css/main.739a0a7b.chunk.css.map": "/static/css/main.739a0a7b.chunk.css.map",
+    "static/js/2.ec88bf98.chunk.js.LICENSE.txt": "/static/js/2.ec88bf98.chunk.js.LICENSE.txt",
+    "static/media/Budget Calculator.d6f2cbcd.png": "/static/media/Budget Calculator.d6f2cbcd.png",
+    "static/media/Discount Calculator.1734c6e0.png": "/static/media/Discount Calculator.1734c6e0.png",
+    "static/media/Luminar.0eec6697.png": "/static/media/Luminar.0eec6697.png",
+    "static/media/Media.fa8f22f7.png": "/static/media/Media.fa8f22f7.png",
+    "static/media/Travel Vlog.7020e785.png": "/static/media/Travel Vlog.7020e785.png",
+    "static/media/weather.ca85896a.png": "/static/media/weather.ca85896a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63137a6a.js",
+    "static/css/2.95d02a1e.chunk.css",
+    "static/js/2.ec88bf98.chunk.js",
+    "static/css/main.739a0a7b.chunk.css",
+    "static/js/main.926259d3.chunk.js"
+  ]
+}
